@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfiniteRunner2D.CSharp", "InfiniteRunner2D.CSharp.csproj", "{A710E1F4-1691-D852-E4B1-038BFE1DD482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A710E1F4-1691-D852-E4B1-038BFE1DD482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A710E1F4-1691-D852-E4B1-038BFE1DD482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A710E1F4-1691-D852-E4B1-038BFE1DD482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A710E1F4-1691-D852-E4B1-038BFE1DD482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
